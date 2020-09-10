@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e35c24b0-47b6-4184-8a51-0528d70f588e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenConfig\apache-maven-3.6.3-bin\apache-maven-3.6.3\Repository" />
+        <option name="mavenHome" value="D:/MavenConfig/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\MavenConfig\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hIkgC3WedJLfyEONxUOJGbq1To" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="" />
+      <option name="docBase" value="" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.57" />
+          <option name="number" value="0" />
+          <option name="path" value="C:\Users\fang1\Downloads\apache-tomcat-8.5.57" />
+          <option name="version" value="8.5.57.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="alipay_tomcat8" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="/alipay.trade.page.pay-JAVA-UTF-8" />
+      <option name="docBase" value="$PROJECT_DIR$/WebContent" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.57" />
+          <option name="number" value="0" />
+          <option name="path" value="C:\Users\fang1\Downloads\apache-tomcat-8.5.57" />
+          <option name="version" value="8.5.57.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e35c24b0-47b6-4184-8a51-0528d70f588e" name="Default Changelist" comment="" />
+      <created>1599706102977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599706102977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599708464735">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599708464735" />
+    <state x="460" y="264" key="DetectedRootsChooserDialog" timestamp="1599718902215">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="460" y="264" key="DetectedRootsChooserDialog/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599718902215" />
+    <state x="553" y="193" key="FileChooserDialogImpl" timestamp="1599718901130">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="553" y="193" key="FileChooserDialogImpl/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599718901130" />
+    <state width="1367" height="247" key="GridCell.Tab.0.bottom" timestamp="1599722638450">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="247" key="GridCell.Tab.0.bottom/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599722638450" />
+    <state width="1367" height="247" key="GridCell.Tab.0.center" timestamp="1599722638449">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="247" key="GridCell.Tab.0.center/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599722638449" />
+    <state width="1367" height="247" key="GridCell.Tab.0.left" timestamp="1599722638449">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="247" key="GridCell.Tab.0.left/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599722638449" />
+    <state width="1367" height="247" key="GridCell.Tab.0.right" timestamp="1599722638449">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1367" height="247" key="GridCell.Tab.0.right/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599722638449" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1599720190671">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599720190671" />
+  </component>
+</project>
