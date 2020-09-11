@@ -1,22 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e35c24b0-47b6-4184-8a51-0528d70f588e" name="Default Changelist" comment="" />
+    <list default="true" id="e35c24b0-47b6-4184-8a51-0528d70f588e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alipay_Payment/new_create_forex_trade-JAVA-UTF-8-MD5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alipay_Payment/new_create_forex_trade-JAVA-UTF-8-MD5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alipay_Payment/new_create_forex_trade-JAVA-UTF-8-MD5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alipay_Payment/new_create_forex_trade-JAVA-UTF-8-MD5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alipay_Payment/new_create_forex_trade-JAVA-UTF-8-MD5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alipay_Payment/new_create_forex_trade-JAVA-UTF-8-MD5/new_create_forex_trade-JAVA-UTF-8-MD5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alipay_Refund/forex_refund-JAVA-UTF-8_MD5/forex_refund-JAVA-UTF-8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/alipay/config/AlipayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/alipay/config/AlipayConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\MavenConfig\apache-maven-3.6.3-bin\apache-maven-3.6.3\Repository" />
-        <option name="mavenHome" value="D:/MavenConfig/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../MavenConfig/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\MavenConfig\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1hIkgC3WedJLfyEONxUOJGbq1To" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,8 +57,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
@@ -35,9 +69,7 @@
       <option name="adminPort" value="8005" />
       <option name="contextPath" value="" />
       <option name="docBase" value="" />
-      <option name="envOptions">
-        <map />
-      </option>
+      <option name="envOptions" />
       <option name="passParentEnvironmentVariables" value="true" />
       <option name="port" value="8080" />
       <option name="tomcatInfo">
@@ -56,7 +88,7 @@
     <configuration name="alipay_tomcat8" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
       <option name="adminPort" value="8005" />
       <option name="contextPath" value="/alipay.trade.page.pay-JAVA-UTF-8" />
-      <option name="docBase" value="$PROJECT_DIR$/WebContent" />
+      <option name="docBase" value="D:\项目\five\alipayeclipse\alipay.trade.page.pay-JAVA-UTF-8\WebContent" />
       <option name="envOptions">
         <map />
       </option>
@@ -86,38 +118,58 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599708464735">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="-2303" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599812329192">
+      <screen x="-2560" y="0" width="2560" height="1410" />
     </state>
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599708464735" />
+    <state x="-2303" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1599812329192" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599792573244" />
     <state x="460" y="264" key="DetectedRootsChooserDialog" timestamp="1599718902215">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="460" y="264" key="DetectedRootsChooserDialog/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599718902215" />
-    <state x="553" y="193" key="FileChooserDialogImpl" timestamp="1599718901130">
+    <state x="389" y="186" key="FileChooserDialogImpl" timestamp="1599802163531">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="553" y="193" key="FileChooserDialogImpl/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599718901130" />
-    <state width="1367" height="247" key="GridCell.Tab.0.bottom" timestamp="1599722638450">
+    <state x="389" y="186" key="FileChooserDialogImpl/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599802163531" />
+    <state width="1350" height="178" key="GridCell.Tab.0.bottom" timestamp="1599812420454">
+      <screen x="-2560" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1350" height="178" key="GridCell.Tab.0.bottom/0.0.1366.738/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1599812420454" />
+    <state width="1367" height="247" key="GridCell.Tab.0.bottom/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599792537620" />
+    <state width="1350" height="178" key="GridCell.Tab.0.center" timestamp="1599812420454">
+      <screen x="-2560" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1350" height="178" key="GridCell.Tab.0.center/0.0.1366.738/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1599812420454" />
+    <state width="1367" height="247" key="GridCell.Tab.0.center/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599792537620" />
+    <state width="1350" height="178" key="GridCell.Tab.0.left" timestamp="1599812420453">
+      <screen x="-2560" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1350" height="178" key="GridCell.Tab.0.left/0.0.1366.738/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1599812420453" />
+    <state width="1367" height="247" key="GridCell.Tab.0.left/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599792537619" />
+    <state width="1350" height="178" key="GridCell.Tab.0.right" timestamp="1599812420454">
+      <screen x="-2560" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1350" height="178" key="GridCell.Tab.0.right/0.0.1366.738/-2560.0.2560.1410@-2560.0.2560.1410" timestamp="1599812420454" />
+    <state width="1367" height="247" key="GridCell.Tab.0.right/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599792537620" />
+    <state x="337" y="128" key="NewModule_or_Project.wizard" timestamp="1599802171131">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1367" height="247" key="GridCell.Tab.0.bottom/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599722638450" />
-    <state width="1367" height="247" key="GridCell.Tab.0.center" timestamp="1599722638449">
+    <state x="337" y="128" key="NewModule_or_Project.wizard/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599802171131" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1599792120197">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1367" height="247" key="GridCell.Tab.0.center/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599722638449" />
-    <state width="1367" height="247" key="GridCell.Tab.0.left" timestamp="1599722638449">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1367" height="247" key="GridCell.Tab.0.left/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599722638449" />
-    <state width="1367" height="247" key="GridCell.Tab.0.right" timestamp="1599722638449">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1367" height="247" key="GridCell.Tab.0.right/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599722638449" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1599720190671">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599720190671" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738/-2560.0.2560.1410@0.0.1366.738" timestamp="1599792120197" />
   </component>
 </project>
